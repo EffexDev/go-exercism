@@ -1,8 +1,4 @@
-<p>
-  <img src="https://skillicons.dev/icons?i=go&theme=light" alt="Go icon" />
-  <span>🌟 Go Exercism Backups</span>
-</p>
-
+# <img src="https://skillicons.dev/icons?i=go&theme=light" width="32" style="vertical-align: middle;" /> 🌟 Go Exercism Backups
 
 [![Go Version](https://img.shields.io/badge/go-1.21-blue)](https://golang.org/)
 [![Last Commit](https://img.shields.io/github/last-commit/EffexDev/go-exercism)](https://github.com/EffexDev/go-exercism/commits/main)
